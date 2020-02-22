@@ -1,0 +1,3 @@
+[submodule "Anisina"]   #子模块名称
+    path = themes/Anisina       #存放子模块的地址
+    url = https://github.com/Haojen/hexo-theme-Anisina  #子模块的原始路径
