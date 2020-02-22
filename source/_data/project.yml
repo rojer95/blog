@@ -1,0 +1,10 @@
+test:
+  title: Enzoani 中国官网
+  date: 2018-06
+  img_link: http://cdn.eqistu.cn/rojer95/enzoani-preview.png
+  use:
+    CocaCms: https://github.com/rojer95/cocacms
+    Amaze UI: http://amazeui.org/
+  direction: Enzoani品牌于2006年问世，通过将传统和现代欧洲风格融入精美手工制作的礼服，迅速崛起，与顶级品牌竞争。
+  link: http://www.enzoani.cn/
+  
