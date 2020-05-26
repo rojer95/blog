@@ -1,9 +1,9 @@
----
 title: centos中redis快速安装
-date: 2020-04-28 13:09:45
 tags:
   - Deploy
 header-img: wallhalla-Bwxp3rLhQnl.jpg
+categories: []
+date: 2020-04-28 13:09:00
 ---
 
 # 下载 nvm

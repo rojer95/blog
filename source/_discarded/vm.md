@@ -1,9 +1,8 @@
----
 title: centos中nvm快速安装
-date: 2020-04-28 13:09:45
 tags:
   - Deploy
 header-img: wallhalla-Bwxp3rLhQnl.jpg
+date: 2020-04-28 13:09:45
 ---
 
 # 下载 nvm
